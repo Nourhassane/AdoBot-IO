@@ -24,10 +24,10 @@
     },
     "admin": {
       "username": {
-        "use_env_variable": "ADMIN_USERNAME"
+        "use_env_variable": "nourhassane201@gmail.com"
       } ,
       "password": {
-        "use_env_variable": "ADMIN_PASSWORD"
+        "use_env_variable": "nourH201"
       }
     }
   }
